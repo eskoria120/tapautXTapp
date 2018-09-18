@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="css/bulma.css" rel="stylesheet">
+    <link href="css/estilos.css" rel="stylesheet">
+</head>
+<body>
+        <div class="field">
+                <figure>
+                        <img id="imglogin" src="icons/blue-user-icon.svg">
+                      </figure>
+                <p class="control has-icons-left has-icons-right">
+                  <input id="email" class="input" type="email" placeholder="Nombre de usuario">
+                  <span class="icon is-small is-left">
+                    <i class="fas fa-envelope"></i>
+                  </span>
+                  <span class="icon is-small is-right">
+                    <i class="fas fa-check"></i>
+                  </span>
+                </p>
+              </div>
+              <div class="field">
+                <p class="control has-icons-left">
+                  <input id="pass" class="input" type="password" placeholder="Password">
+                  <span class="icon is-small is-left">
+                    <i class="fas fa-lock"></i>
+                  </span>
+                </p>
+              </div>
+              <div class="field">
+                <p class="control">
+                  <button id="btnlogin" class="button is-success">
+                    Login
+                  </button>
+                </p>
+              </div>
+              <div class="field">
+                    <p class="control">
+                      <button id="btnloginGoogle" class="button is-success">
+                        Login con google
+                      </button>
+                    </p>
+                  </div>
+                  <div class="field">
+                    <p class="control">
+                      <button class="button is-success" onclick="ocultar()">
+                        Registrate.
+                      </button>
+                    </p>
+                  </div>
+            <div id="reg" style='display:none;'>      
+                <p class="control has-icons-left has-icons-right">
+                  <input id="email-registrate" class="input" type="email" placeholder="Nombre de usuario">
+                  <span class="icon is-small is-left">
+                    <i class="fas fa-envelope"></i>
+                  </span>
+                  <span class="icon is-small is-right">
+                    <i class="fas fa-check"></i>
+                  </span>
+                </p>
+          
+              <div class="field">
+                <p class="control has-icons-left">
+                  <input id="pass-registrate" class="input" type="password" placeholder="Password">
+                  <span class="icon is-small is-left">
+                    <i class="fas fa-lock"></i>
+                  </span>
+                </p>
+              </div>
+              <div class="field">
+                <p class="control">
+                  <button id="btnregistrar" class="button is-success">
+                    registar
+                  </button>
+                </p>
+            </div>     
+  <script src="https://www.gstatic.com/firebasejs/5.0.4/firebase.js"></script>                
+  <script src="js/firebase.js"></script>
+  <script type="text/javascript">
+    function ocultar(){
+      document.getElementById('reg').style.display = 'block';
+    }
+  </script>                
+</body>
+</html>

@@ -1,0 +1,111 @@
+{
+    "semana1": [
+        { "dia1":"combate a cuerpo"},
+        { "dia2":"potencia y fuerza superior + abdominales extremas"},
+        { "dia3":"fortalecimiento tapau XT"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana2": [
+        { "dia1":"resistencia abdominal"},
+        { "dia2":"potencia y fuerza superior + abdominales extremas"},
+        { "dia3":"fortalecimiento tapau XT"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana3": [
+        { "dia1":"combate a cuerpo"},
+        { "dia2":"potencia y fuerza superior + abdominales extremas"},
+        { "dia3":"fortalecimiento tapau XT"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana4": [
+        { "dia1":"resistencia abdominal"},
+        { "dia2":"gluteos y biceps + abdominales extremas"},
+        { "dia3":"muay thai boxeo tailandes"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"extensión de combate"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana5": [
+        { "dia1":"fortalecimiento tapOut"},
+        { "dia2":"tonificación acondicionamiento + abdominales extremas"},
+        { "dia3":"muay thai boxeo tailandes"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana6": [
+        { "dia1":"fortalecimiento tapOut"},
+        { "dia2":"tonificación acondicionamiento + abdominales extremas"},
+        { "dia3":"combate a cuerpo"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"gluteos y biceps + abdominales extremas"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana7": [
+        { "dia1":"fortalecimiento tapOut"},
+        { "dia2":"tonificación acondicionamiento + abdominales extremas"},
+        { "dia3":"muay thai boxeo tailandes"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana8": [
+        { "dia1":"resistencia abdominal"},
+        { "dia2":"Yoga XT"},
+        { "dia3":"extensión de combate"},
+        { "dia4":"gluteos y biceps + abdominales extremas"},
+        { "dia5":"Yoga XT"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana9": [
+        { "dia1":"extensión de combate"},
+        { "dia2":"potencia y fuerza superior + abdominales extremas"},
+        { "dia3":"fortalecimiento tapOut"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana10": [
+        { "dia1":"resistencia abdominal"},
+        { "dia2":"tonificación acondicionamiento + abdominales extremas"},
+        { "dia3":"fortalecimiento tapOut"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"cardio XT + abdominales extremas"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana11": [
+        { "dia1":"fortalecimiento tapOut"},
+        { "dia2":"potencia y fuerza superior + abdominales extremas"},
+        { "dia3":"combate a cuerpo"},
+        { "dia4":"Yoga XT"},
+        { "dia5":"piernas y espalda"},
+        { "dia6":"extensión de combate"},
+        { "dia7":"dia de descanso"}
+    ],
+        "semana12": [
+        { "dia1":"muay thai boxeo tailandes"},
+        { "dia2":"gluteos y biceps + abdominales extremas"},
+        { "dia3":"fortalecimiento tapOut"},
+        { "dia4":"Resistencia abdominal"},
+        { "dia5":"extensión de combate"},
+        { "dia6":"cardio XT + abdominales extremas"},
+        { "dia7":"TapOutxXT tu nuevo cuerpo."}
+    ]
+    
+ }

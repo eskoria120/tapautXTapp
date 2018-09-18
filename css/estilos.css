@@ -1,0 +1,26 @@
+#imglogin {
+	max-width: 20%;
+	margin: auto 40% auto 40%;
+}
+#muestraImagen{
+-webkit-clip-path: circle(50% at 50% 50%);
+clip-path: circle(50% at 50% 50%);	
+width: 150px;
+height: 150px;
+}
+.tituloSemanas {
+	background-color: #00D1B2;
+	color: #FFFFFF;
+	padding: .5em;
+}
+.textoFinalizado {
+	color: blue;
+}
+.c1 {
+	background-color: yellow;
+}
+.gs {
+	
+	margin-left: .5em;
+	margin-right: 2em;
+}

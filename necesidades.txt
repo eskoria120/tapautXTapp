@@ -1,0 +1,4 @@
+-esta app me tiene que mostrar una patalla de login.
+-tiene que mostrar tu usuario y el plan de entrenamieto
+por semanas  y por dia.
+-ademas mostrar una alerta diaria para recordarte que ejercicio te toca para ese dia.
